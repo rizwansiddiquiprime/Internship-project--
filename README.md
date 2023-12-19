@@ -1,4 +1,4 @@
-# Intervie Tech Projects intern "Optimizing Employee Retention and Performance Through Data-Driven HR Strategies"
+# Intervie Tech Project intern "Optimizing Employee Retention and Performance Through Data-Driven HR Strategies"
 This Project has been done in Intervie Tech Punjab,
 Data Analysis with Python
 
@@ -6,7 +6,7 @@ In today's competitive Our organization recognizes the need to leverage data-dri
 
 The HR department is embarking on an HR analytics project to analyze existing HR data and develop actionable insights that can enhance employee retention and performance. The primary goal of this project is to identify key factors influencing employee turnover and performance and to develop strategies to address these issues proactively.
 
-# Psyluq Project intern "Diabetes Prediction Assessment In Power BI"
+# Psyliq Project intern "Diabetes Prediction Assessment In Power BI"
 This project has been done in Psyliq Banglore,
 
 🔍 Just wrapped up 🙂 an intensive First Task Diabetes Prediction Assessment at Psyliq
